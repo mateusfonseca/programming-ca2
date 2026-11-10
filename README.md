@@ -1,5 +1,8 @@
 # Industrial ERP Information System
 
+**Author:** Mateus Fonseca Campos  
+**Email:** mateusff8@gmail.com
+
 **Dublin Business School**  
 **MSc in Information Systems with Computing**  
 **Programming for Information Systems - B9IS123**  
