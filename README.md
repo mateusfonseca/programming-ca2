@@ -37,13 +37,13 @@ For this project, the focus was on the manufacturing operations module of a, pot
 
 The following flowchart presents an overview of the core manufacturing operations:
 
-| ![flowchart.png](screenshots/flowchart.png) |
+| ![flowchart.png](images/diagrams/flowchart.png) |
 | :-: |
 | *Manufacturing operations* |
 
 The following image shows an ER diagram for the previously considered scenario. Cardinality is expressed using Crow’s Foot notation:
 
-| ![erd.png](screenshots/erd.png) |
+| ![erd.png](images/diagrams/erd.png) |
 | :-: |
 | *ER diagram* |
 
@@ -221,15 +221,15 @@ root
 ```
 The following are some screenshots of the application in use showcasing CRUD operations for the Product entity (other entities are analogous):
 
-| ![home.png](screenshots/home.png) | ![read_all.png](screenshots/read_all.png) |
+| ![home.png](images/screenshots/home.png) | ![crud_read_all.png](images/screenshots/crud_read_all.png) |
 | :-: | :-: |
 | *Home view* | *Read products* |  
 
-| ![create.png](screenshots/create.png) | ![read.png](screenshots/read.png) |
+| ![create.png](images/screenshots/crud_create.png) | ![read.png](images/screenshots/crud_read.png) |
 | :-: | :-: |
 | *Create product* | *Read product* |  
 
-| ![update.png](screenshots/update.png) | ![delete.png](screenshots/delete.png) |
+| ![update.png](images/screenshots/crud_update.png) | ![delete.png](images/screenshots/crud_delete.png) |
 | :-: | :-: |
 | *Update product* | *Delete products* |  
 
@@ -237,7 +237,7 @@ The following are some screenshots of the application in use showcasing CRUD ope
 
 Pytest was used to test CRUD operations. The Image below shows the coverage percentage as per the Coverage.py Python library:
 
-| ![coverage.png](screenshots/coverage.png) |
+| ![coverage.png](images/reports/coverage.png) |
 | :-: |
 | *Test coverage* |
 
